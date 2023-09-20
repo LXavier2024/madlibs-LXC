@@ -1,0 +1,19 @@
+adverbs = adverbs.concat([
+    'slyly',
+    'dangerously',
+    'jubilantly',
+    'unselfishly',
+    'selfishly',
+    'vivaciously',
+    'hungrily',
+    'destructively',
+    'sweatily',
+    'excitedly',
+    'harmoniously',
+    'depressingly',
+    'desperately',
+    'thirstily',
+    'patriotically',
+    'judgmentally',
+    'psychotically'
+]);

@@ -1,0 +1,19 @@
+adjectives = adjectives.concat([
+    'short',
+    'crafty',
+    'wiley',
+    'ratchet',
+    'stanky',
+    'narsty',
+    'soupy',
+    'moist',
+    'inimitable',
+    'sweaty',
+    'crusty',
+    'musty',
+    'dusty',
+    'rusty',
+    'juicy',
+    'plump',
+    'lumpy'
+]);
